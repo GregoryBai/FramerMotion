@@ -12,6 +12,7 @@ const SecondPage = () => (
   <Layout>
     <SEO title="Page two" />
     <DashboardV2/>
+     <h2>The only that works is the one above, refresh the page to play the animation all over again</h2>
     <Dashboard/>
     
     
